@@ -1,4 +1,4 @@
-# Visual Source Code 
+# TypeScript 
 
 ## Debug Typescript
 
